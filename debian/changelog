@@ -1,0 +1,5 @@
+python-cffi (100:1.16.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/python-cffi/cffi/releases/tag/v1.16.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Mon, 01 Jan 2024 20:00:32 +0800
